@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: UAVs@Berkeley Documentation
+site_url: https://uav.studentorg.berkeley.edu/docs/
+repo_url: https://github.com/UAVs-at-Berkeley/uav-docs
+
+theme:
+  name: shadcn
