@@ -1,6 +1,11 @@
-# MkDocs
+# Zensical
 site/
 .cache/
+
+# Nix
+result
+result-*
+.direnv/
 
 # Python
 __pycache__/
@@ -37,6 +42,3 @@ ENV/
 *.swo
 *~
 .DS_Store
-
-# Dependencies
-node_modules/
