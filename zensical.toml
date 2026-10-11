@@ -307,6 +307,9 @@ toggle.name = "Switch to light mode"
 #icon = "fontawesome/brands/github"
 #link = "https://github.com/user/repo"
 
+[project.extra]
+homepage = "https://uav.studentorg.berkeley.edu/"
+
 # ----------------------------------------------------------------------------
 # In this section you can configure the Markdown extensions that are used when
 # rendering your documentation. We enable the most useful extensions by default,
