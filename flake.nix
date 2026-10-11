@@ -27,7 +27,7 @@
             root = ./.;
             fileset = pkgs.lib.fileset.unions [
               ./docs
-              ./mkdocs.yml
+              ./zensical.toml
             ];
           };
 
