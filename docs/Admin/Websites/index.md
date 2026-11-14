@@ -20,7 +20,7 @@ All sites are hosted by the [Open Computing Facility](https://ocf.berkeley.edu/)
 
 ??? info "Getting Access"
 
-    The login information for `uav` is stored on the shared Apple Passwords group. However, the process is fully automated from the GitHub repositories, so performing actions via `uav` should generally never be needed.
+    The login information for `uav` is stored on the shared Apple Passwords group. However, the deployment process for our sites are fully automated from the GitHub repositories, so performing actions via `uav` should generally never be needed.
 
 ## Deployment
 
