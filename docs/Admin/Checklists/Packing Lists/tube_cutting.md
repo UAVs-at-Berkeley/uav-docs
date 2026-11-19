@@ -8,6 +8,8 @@
 - Power extension cable
 - Paper towels
 - Trash bags
+- Measuring tape
+- Masking tape
 - Water spray bottles
 - Safety glasses
 - N95 masks
@@ -25,3 +27,4 @@
 - Drill press
 - Carbide drill bits
 - Diamond ream bits
+- Hot glue gun? for preventing tubes from rotating
