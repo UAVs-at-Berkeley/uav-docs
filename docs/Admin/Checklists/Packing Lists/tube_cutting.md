@@ -2,6 +2,8 @@
 
 ## General
 
+- the tubes
+
 - Jig base (the 1 in extrusion)
 - Jig hardware pack
 - Screwdrivers for jig hardware
@@ -28,3 +30,4 @@
 - Carbide drill bits
 - Diamond ream bits
 - Hot glue gun? for preventing tubes from rotating
+  - Hot glue sticks
