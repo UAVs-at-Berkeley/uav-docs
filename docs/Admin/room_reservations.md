@@ -165,5 +165,8 @@ Details [here](https://me.berkeley.edu/resources/room-reservations/).
 
 ## Others
 
+- Open Computing Facility: large computer lab. info on their website
+- Supernode: EE makerspace. email the email on their website
+
 Not covered here: major Event Services venues (Pauley Ballroom, Memorial Glade, etc.),
-practice and performance venues (Eshelman practice performance rooms, Savio steps, etc.), Open Computing Facility (computer lab), probably some others as well
+practice and performance venues (Eshelman practice performance rooms, Savio steps, etc.), probably some others as well
